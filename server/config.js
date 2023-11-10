@@ -1,0 +1,1 @@
+module.exports = { url:"mongodb+srv://shinjantest:testing123@cluster0.aydac00.mongodb.net/" }

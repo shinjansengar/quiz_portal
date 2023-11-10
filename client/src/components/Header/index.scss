@@ -1,0 +1,25 @@
+.logo_container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: aliceblue;
+    >img{
+        width: 75px;
+        height: 75px;
+        cursor: pointer;
+    }
+    margin-bottom: 20px;
+
+    .header_info{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        gap: 20px;
+        justify-content: space-between;
+
+        .logout_icon{
+            width: 20px;
+        }
+    }
+}
+
